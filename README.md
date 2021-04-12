@@ -1,5 +1,7 @@
 # community-program
 
+<img alt="Logotipo da Sysvale" src="https://sysvale.com/images/dark-logo.png" width="200" />
+
 #### Informe-se sobre o programa de comunidades da Sysvale 🥳🤩🎉🎊
 
 O programa de comunidades da Sysvale tem como objetivo fomentar a formação e o fortalecimento de comunidades dentro e fora da empresa.
