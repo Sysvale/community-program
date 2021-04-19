@@ -16,7 +16,7 @@ De início estaremos implementando o [Sysvale Community Points 📈](https://git
 
 Junto a isso apresentamos o programa Sysvale Community Advocate onde vocês serão reconhecidos como peças fundamentais da comunidade da empresa e poderão obter prêmios ao atingirem algum dos níveis previstos. 🎁📦
 
-E além disso, teremos o Sysvale Live Show, um evento mensal online que será transmitido em nosso canal do YouTube com as melhores ações do mês! As ações selecionadas e apresentadas no live show serão bonificadas com pontos no community points. 💸💵🤑💳💰
+E além disso, teremos o [Sysvale Live Show](https://github.com/Sysvale/community-program/tree/main/live-show), um evento mensal online que será transmitido em nosso canal do YouTube com as melhores ações do mês! As ações selecionadas e apresentadas no live show serão bonificadas com pontos no community points. 💸💵🤑💳💰
 
 <img alt="Imagem de um talk show onde o apresentador diz 'you guys ready to do this?'" src="https://media.giphy.com/media/kZnDSGaykiu6cPDhHU/giphy.gif" width="300" />
 
