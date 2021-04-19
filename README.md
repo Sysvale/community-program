@@ -14,7 +14,7 @@ O programa de comunidades da Sysvale tem como objetivo fomentar a formação e o
 
 De início estaremos implementando o [Sysvale Community Points 📈](https://github.com/Sysvale/community-program/tree/main/points). Um processo onde vocês proderão, através de ações, acumular pontos que se tornarão dinheiro (em formato de benefício) mediante uma solicitação de saque 💸💵🤑💳💰. Os detalhes podem ser vistos no link anterior.
 
-Junto a isso apresentamos o programa Sysvale Community Advocate onde vocês serão reconhecidos como peças fundamentais da comunidade da empresa e poderão obter prêmios ao atingirem algum dos níveis previstos. 🎁📦
+Junto a isso apresentamos o programa [Sysvale Community Advocate](https://github.com/Sysvale/community-program/tree/main/advocate) onde vocês serão reconhecidos como peças fundamentais da comunidade da empresa e obterão prêmios ao atingirem algum dos níveis previstos. 🎁📦
 
 E além disso, teremos o [Sysvale Live Show](https://github.com/Sysvale/community-program/tree/main/live-show), um evento mensal online que será transmitido em nosso canal do YouTube com as melhores ações do mês! As ações selecionadas e apresentadas no live show serão bonificadas com pontos no community points. 💸💵🤑💳💰
 
