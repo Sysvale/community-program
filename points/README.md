@@ -10,6 +10,8 @@ O saque só pode ser realizado em `múltiplos de 10 pontos` de acordo com a disp
 
 As solicitações de saque dependem da verba do programa que está disponível no mês.
 
+* Para submeter uma palestra basta criar uma issue com título, resumo, duração e tipo (interna ou externa).
+
 ## Palestras
 
 Uma das ações que podem ser realizadas para a obtenção de pontos são as palestras. Veja as pontuações a seguir:
