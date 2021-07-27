@@ -1,6 +1,6 @@
 # community-program
 
-<img alt="Logotipo da Sysvale" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG-iIYByOj8gQ/company-logo_200_200/0/1609777315447?e=1626307200&v=beta&t=6tu5WtF6zJRlc8sQ2JwfbUWqYluN_VD6WPPCALUEnUQ" width="100" />
+<img alt="Logotipo da Sysvale" src="https://user-images.githubusercontent.com/12296173/127169001-31b402ec-b8f4-4b0e-8fd3-6385adafa556.png" width="100" />
 
 #### Informe-se sobre o programa de comunidades da Sysvale 🥳🤩🎉🎊
 
